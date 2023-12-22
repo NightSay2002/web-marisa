@@ -1,4 +1,4 @@
-module github.com/gutrse3321/web-marisa
+module github.com/Nightsay2002/web-marisa
 
 go 1.15
 

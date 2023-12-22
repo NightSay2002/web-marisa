@@ -11,8 +11,8 @@ import (
 	"github.com/gutrse3321/aki/pkg/config"
 	"github.com/gutrse3321/aki/pkg/log"
 	"github.com/gutrse3321/aki/pkg/transports/http"
-	"github.com/gutrse3321/web-marisa/src"
-	"github.com/gutrse3321/web-marisa/src/controller"
+	"github.com/Nightsay2002/web-marisa/src"
+	"github.com/Nightsay2002/web-marisa/src/controller"
 )
 
 // Injectors from wire.go:
