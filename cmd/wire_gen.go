@@ -7,10 +7,10 @@ package main
 
 import (
 	"github.com/google/wire"
-	"github.com/gutrse3321/aki/pkg/app"
-	"github.com/gutrse3321/aki/pkg/config"
-	"github.com/gutrse3321/aki/pkg/log"
-	"github.com/gutrse3321/aki/pkg/transports/http"
+	"github.com/Nightsay2002/aki/pkg/app"
+	"github.com/Nightsay2002/aki/pkg/config"
+	"github.com/Nightsay2002/aki/pkg/log"
+	"github.com/Nightsay2002/aki/pkg/transports/http"
 	"github.com/Nightsay2002/web-marisa/src"
 	"github.com/Nightsay2002/web-marisa/src/controller"
 )
